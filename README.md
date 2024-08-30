@@ -61,8 +61,8 @@ I am a passionate web developer with a strong foundation in both front-end and b
 ## 📫 **Contact Me**
 
 - Email: ashvajeetathawale7@gmail.com
-- LinkedIn: [Your LinkedIn Profile](#)
-- Portfolio: [Your Personal Website](#)
+- LinkedIn: www.linkedin.com/in/ashvajeet-athawale-0778bb204
+
 
 ---
 
