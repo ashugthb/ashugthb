@@ -9,7 +9,6 @@ I am a final-year Electronics & Communication Engineering student at MNIT Jaipur
 ## 🚀 **About Me**
 
 - 🔭 I am currently a **Research Intern at IIT Mandi**, where I'm developing the world's first prototype for high-frequency (5.31 GHz) brain scanning.
-- 📄 Co-author of a pending **invention patent** for a "Multi-Band electromagnetic burst analyzer and polyatomic time-crystal processor".
 - 🎓 My B.Tech in ECE has provided me with a strong foundation in both hardware and software, allowing me to build systems from the ground up.
 - 🌱 I thrive on solving complex computational problems, whether it's optimizing GPU memory for deep learning models or engineering a 10Gbps data pipeline in C++.
 
@@ -74,4 +73,4 @@ I am a final-year Electronics & Communication Engineering student at MNIT Jaipur
 
 - **LinkedIn:** [linkedin.com/in/ashvajeetathawale7](https://www.linkedin.com/in/ashvajeetathawale7)
 - **Email:** [ashvajeetathawale7@gmail.com](mailto:ashvajeetathawale7@gmail.com)
-- **Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com) <!-- ADD YOUR PORTFOLIO LINK -->
+- **Portfolio:** [your-portfolio-website.com](https://ashvajeet-portfolio.vercel.app) 
