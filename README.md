@@ -1,69 +1,77 @@
-
 # Hi there, I'm Ashvajeet Athawale 👋 @ashugthb
 
-🌐 **Web Developer | B.Tech 4th Year | MNIT Jaipur**
+🧠 **AI Researcher | 🚀 High-Performance Systems Engineer | 💻 Full-Stack Developer**
 
-I am a passionate web developer with a strong foundation in both front-end and back-end technologies. I thrive on building innovative web applications, solving complex problems, and continuously learning new skills. Welcome to my GitHub, where I showcase my projects, skills, and contributions.
+I am a final-year Electronics & Communication Engineering student at MNIT Jaipur, passionate about building intelligent systems that operate at the intersection of AI, high-performance computing, and real-time data processing. My focus is on developing and optimizing complex algorithms, from novel Transformer architectures to end-to-end systems for neural data analysis. Welcome to my GitHub!
 
 ---
 
 ## 🚀 **About Me**
 
-- 🔭 I’m currently working as a Full Stack Web Developer Intern at Per Clean Laundry Services.
-- 🎓 Studying B.Tech at MNIT Jaipur, with a keen interest in full-stack development, API integration, and web optimization.
-- 🏆 2-time Bronze Medalist in National Science Olympiad and recognized in various inter-college and zonal competitions.
-- 🎵 A passionate musician who enjoys playing piano, flute, and other instruments.
+- 🔭 I am currently a **Research Intern at IIT Mandi**, where I'm developing the world's first prototype for high-frequency (5.31 GHz) brain scanning.
+- 📄 Co-author of a pending **invention patent** for a "Multi-Band electromagnetic burst analyzer and polyatomic time-crystal processor".
+- 🎓 My B.Tech in ECE has provided me with a strong foundation in both hardware and software, allowing me to build systems from the ground up.
+- 🌱 I thrive on solving complex computational problems, whether it's optimizing GPU memory for deep learning models or engineering a 10Gbps data pipeline in C++.
 
 ---
 
-## 🛠️ **Skills**
+## 🛠️ **Tech Stack**
 
-### **Front-End Development**
-- HTML5, CSS, JavaScript, React.js, Redux, Redux Toolkit, Tailwind CSS, TypeScript
-- Responsive Web Design, Material UI
+### **AI & Computer Vision**
+- **Frameworks:** TensorFlow, PyTorch, OpenCV
+- **Concepts:** Deep Learning, Machine Learning, Neural Networks, Computer Vision, Image Processing, NLP (BERT, Transformers)
+- **Libraries:** Pandas, NumPy, Matplotlib
 
-### **Back-End Development**
-- Node.js, Express.js, MongoDB, API Development and Integration, JWT Authentication
+### **Languages & High-Performance**
+- Python, C++, JavaScript, TypeScript, SQL
 
-### **Programming Languages**
-- C++ (Data Structures and Algorithms), JavaScript
+### **Web Development (Full-Stack)**
+- **Frontend:** React.js, Next.js, Redux, HTML5, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
 
-### **Tools & Technologies**
-- Docker, GRPC, Socket.io, Redis, Git, GitHub, Postman, Green API, Twilio
-
----
-
-## 📂 **Projects**
-
-### [**WhatsApp Bot**](#) 
-- A bot developed for two-way communication between client and server with features like booking appointments, reminders, and order management using Twilio and Dialogflow.
-- **Key Learnings:** Node.js, Express.js, Twilio, Green API.
-
-### [**Self-Driving Car in JavaScript**](#)
-- Developed a self-driving car simulation from scratch without libraries, implementing neural networks, genetic algorithms, and collision detection.
-- **Key Learnings:** Neural Networks, HTML Canvas, Artificial Sensors.
-
-### [**Full Stack Web Application for Per Clean Laundry Services**](#)
-- Developed a comprehensive web application, implementing JWT-based authentication, invoice generation, and messaging functionalities on WhatsApp for secure admin access and customer notifications.
-- **Key Learnings:** React.js, Node.js, Redux Toolkit, MongoDB, Material UI.
+### **Developer Tools & Services**
+- Git, GitHub, Docker, Postman, Google Colab, MongoDB Compass
+- **Cloud:** AWS (Lambda, EC2, SNS), Google Cloud, Twilio
 
 ---
 
-## 🏅 **Achievements**
+## 📂 **Featured Projects**
 
-- 🥉 **2-time Bronze Medalist**, National Science Olympiad.
-- 🥈 **2nd Place in Piano Competition**, competing against participants from 8 districts.
-- 🧘 **Selected for Zonal Yoga Competition**, demonstrating physical discipline and commitment.
-- 🏆 **Winner of Inter-Branch Competition**, MNIT Jaipur, showcasing teamwork and strategic thinking.
+### [**ScaleFormer: A Hierarchical Transformer Model**](#) <!-- REPLACE # WITH YOUR REPO LINK -->
+- Devised a novel hierarchical attention model with staged memory tokens to reduce computational complexity from O(n²) to O(n).
+- Enabled a 10,000-token sequence length on a single 4GB GPU, cutting training time by 40% and boosting long-context retention by 2.5x.
+- **Key Technologies:** Python, PyTorch, GPU Optimization, Transformer Architecture.
+
+### [**Automated Neural State Classification**](#) <!-- REPLACE # WITH YOUR REPO LINK -->
+- Developed a Computer Vision model to classify neural states from 4 distinct real-time visualizations, processing a 168-channel data stream from the DDG device.
+- The system automated analysis, slashing pattern identification time by over 90% compared to manual methods.
+- **Key Technologies:** Python, OpenCV, TensorFlow, Computer Vision, Real-Time Data Processing.
+
+### [**Campus Prep: AI-Powered Learning Analysis**](#) <!-- REPLACE # WITH YOUR REPO LINK -->
+- Built a full-stack platform with a hybrid BERT & LSTM model to analyze a developer's keystrokes and code in real-time.
+- The system captures over 500 metrics from an integrated code editor to generate an actionable, AI-powered learning roadmap.
+- **Key Technologies:** Next.js, Python, BERT, LSTM, Data Pipelines, AI-Driven Analytics.
 
 ---
 
-## 📫 **Contact Me**
+## 🔬 **Publications & Patents**
 
-- Email: ashvajeetathawale7@gmail.com
-- LinkedIn: www.linkedin.com/in/ashvajeet-athawale-0778bb204
-
+- **Patent (Pending):** *System and Method for Real-Time Neural Data Analysis* ("Multi-Band electromagnetic burst analyzer and polyatomic time-crystal processor").
+- **Research Paper (In Prep):** *"Beyond Conventional EEG: High-Frequency Circuits Design and Brain Data Visualization for DDG device."* (Journal of Applied Physics).
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+## 🏆 **Leadership & Achievements**
+
+- **General Secretary, Classical Music & Dance Club:** Led organization for 'Nratyanjali' and 'Voice Toice' events during BLITZSCHLAG '24.
+- **Joint Secretary, Aeromodelling Club:** Headed 'Aeroquest', the flagship event of the SPHINX '24 technical fest.
+- **2-time Bronze Medalist** in the National Science Olympiad.
+
+---
+
+## 📫 **Let's Connect!**
+
+- **LinkedIn:** [linkedin.com/in/ashvajeetathawale7](https://www.linkedin.com/in/ashvajeetathawale7)
+- **Email:** [ashvajeetathawale7@gmail.com](mailto:ashvajeetathawale7@gmail.com)
+- **Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com) <!-- ADD YOUR PORTFOLIO LINK -->
