@@ -1,7 +1,7 @@
 
 # Hi there, I'm Ashvajeet Athawale 👋 @ashugthb
 
-🌐 **Web Developer | B.Tech 2nd Year | MNIT Jaipur**
+🌐 **Web Developer | B.Tech 4th Year | MNIT Jaipur**
 
 I am a passionate web developer with a strong foundation in both front-end and back-end technologies. I thrive on building innovative web applications, solving complex problems, and continuously learning new skills. Welcome to my GitHub, where I showcase my projects, skills, and contributions.
 
