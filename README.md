@@ -54,13 +54,6 @@ I am a final-year Electronics & Communication Engineering student at MNIT Jaipur
 
 ---
 
-## 🔬 **Publications & Patents**
-
-- **Patent (Pending):** *System and Method for Real-Time Neural Data Analysis* ("Multi-Band electromagnetic burst analyzer and polyatomic time-crystal processor").
-- **Research Paper (In Prep):** *"Beyond Conventional EEG: High-Frequency Circuits Design and Brain Data Visualization for DDG device."* (Journal of Applied Physics).
-
----
-
 ## 🏆 **Leadership & Achievements**
 
 - **General Secretary, Classical Music & Dance Club:** Led organization for 'Nratyanjali' and 'Voice Toice' events during BLITZSCHLAG '24.
