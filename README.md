@@ -66,4 +66,4 @@ I am a final-year Electronics & Communication Engineering student at MNIT Jaipur
 
 - **LinkedIn:** [linkedin.com/in/ashvajeetathawale7](https://www.linkedin.com/in/ashvajeetathawale7)
 - **Email:** [ashvajeetathawale7@gmail.com](mailto:ashvajeetathawale7@gmail.com)
-- **Portfolio:** [your-portfolio-website.com](https://ashvajeet-portfolio.vercel.app) 
+- **Portfolio:** [ASHVAJEET PORTFOLIO](https://ashvajeet-portfolio.vercel.app) 
