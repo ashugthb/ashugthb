@@ -8,7 +8,7 @@ I am a final-year Electronics & Communication Engineering student at MNIT Jaipur
 
 ## 🚀 **About Me**
 
-- 🔭 I am currently a **Research Intern at IIT Mandi**, where I'm developing the world's first prototype for high-frequency (5.31 GHz) brain scanning.
+- 🔭 I works as a **Research Intern at IIT Mandi**, where I'm developing the world's first prototype for high-frequency (5.31 GHz) brain scanning.
 - 🎓 My B.Tech in ECE has provided me with a strong foundation in both hardware and software, allowing me to build systems from the ground up.
 - 🌱 I thrive on solving complex computational problems, whether it's optimizing GPU memory for deep learning models or engineering a 10Gbps data pipeline in C++.
 
